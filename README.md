@@ -56,3 +56,13 @@ Key functionalities in the notebook:
 ## 📜 License
 
 MIT License
+
+------
+
+## Key Figures
+
+<img width="732" alt="Screenshot 2025-03-26 at 09 12 51" src="https://github.com/user-attachments/assets/e0bf7be0-2125-4935-86e6-be874302e0fd" />
+Figure 1: Demonstrating the increasing accuracy of the transformer model with a growing sample size
+
+<img width="833" alt="Screenshot 2025-03-26 at 09 13 06" src="https://github.com/user-attachments/assets/b4ac83d2-fee3-4df0-9998-05f422e6adf4" />
+Figure 2: Normalised confusion matrix for most frequent moves
